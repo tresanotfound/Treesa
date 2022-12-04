@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Treesa George</title>
+    <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div>
+             <h4>Treesa George</h4>
+        </div>
+        <ul class="navlinks">
+            <li>
+                <a href="#home">Home</a>
+            </li>
+            <li>
+                <a href="#about">About</a>
+            </li>
+            <li>
+               <a href="#skills">Skills</a> 
+            </li>
+          
+            <li>
+               <a href="#contact">Contact</a> 
+            </li>
+          
+        </ul>
+    </nav>
+    <main>
+        <section id="home">
+            <div class="home_container">
+                <div class="home_left">
+                    <div>
+                        <p>Hello!!! I'm Treesa George</p>
+                    </div>
+                    <div>
+                        <h2>
+                            Web Designer
+                        </h2>
+                    </div>
+                    <div class="resume_container">
+                        <a href="https://sunithvs.com">
+                            Resume
+                        </a>
+                    </div>
+                </div>
+                <div class="home_right">
+                    <img class="profile" src="<!-- wp:gallery {"linkTo":"none"} -->
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":20,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://studentdetailscode.files.wordpress.com/2022/12/img_20221203_234254.jpg?w=719" alt="" class="wp-image-20"/></figure>
+<!-- /wp:image --></figure>
+<!-- /wp:gallery -->">
+                </div>
+            </div>
+        </section>
+
+        <section id ="about">
+            <div>
+                <div class="about_head">
+                    <h2 class="brown_head">
+                        About
+                    </h2>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt molestias, labore sit ratione excepturi id cupiditate, nulla pariatur, odio maiores commodi sed voluptates reprehenderit accusamus iusto rerum. Nisi, ut ullam?</p>                    
+                </div>
+                <div class="experiance">
+                        <ul>
+                            <li>
+                                <b>2014-2018</b>
+                                <p>
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto dicta dolor atque pariatur laudantium aspernatur ipsum! Suscipit at, velit ipsum vitae ex fuga ratione neque est excepturi aliquam corporis tenetur.
+                                </p>
+                            </li>
+                            <li>
+                                <b>2014-2018</b>
+                                <p>
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto dicta dolor atque pariatur laudantium aspernatur ipsum! Suscipit at, velit ipsum vitae ex fuga ratione neque est excepturi aliquam corporis tenetur.
+                                </p>
+                            </li>
+
+                            <li>
+                                <b>2014-2018</b>
+                                <p>
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto dicta dolor atque pariatur laudantium aspernatur ipsum! Suscipit at, velit ipsum vitae ex fuga ratione neque est excepturi aliquam corporis tenetur.
+                                </p>
+                            </li>
+
+                        </ul>
+                </div>
+            </div>
+        </section>
+        <section id="skills">
+            <div>
+            <h2 class="brown_head"> Skills</h2>
+<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia voluptate aliquam nihil ipsum tempore voluptatibus corrupti non vel? Natus incidunt facilis minima fugiat vitae quas quod illum eligendi delectus eveniet.</p>
+            </div>
+            <div class="skills_list">
+              
+                <div class="skills_container">
+                    <div class="skill_box">
+                        <img src="IMG_20221204_132948.jpg" width="100px">
+                        <p>
+                            Markup Language
+                        </p>
+                    </div>
+                    <div class="skill_box">
+                        <img src="Screenshot_2022-12-04-13-29-20-29.jpg" width="100px">
+                        <p>
+                            Markup Language
+                        </p>
+                    </div>
+                    <div class="skill_box">
+                        <img src="Screenshot_2022-12-04-13-11-35-02.jpg" width="100px">
+                        <p>
+                            Markup Language
+                        </p>
+                    </div>
+    
+                </div>
+                
+            </div>
+        </section>
+        <section id="contact">
+                <h2 class="brown_head">Contact </h2>
+                <div class="contact_container">
+                    <div class="image">
+                        <img  src="<!-- wp:gallery {"linkTo":"none"} -->
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":20,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://studentdetailscode.files.wordpress.com/2022/12/img_20221203_234254.jpg?w=719" alt="" class="wp-image-20"/></figure>
+<!-- /wp:image --></figure>
+<!-- /wp:gallery -->
+          </img>
+  
+                </div>
+                <div class="contents">
+                    <p>
+                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Itaque expedita sint quae animi eaque dolores, omnis officia libero, magnam a et culpa, rem veniam aliquam eligendi nostrum distinctio velit cupiditate.
+                    </p>
+                    <p class="email">tresaishere7@gmail.com</p>
+                    <p>https://github.com/tresanotfound</p>
+                </div>
+                </div>
+                
+        </section>
+    </main>
+</body>
+</html>
+
+
+
+
+
