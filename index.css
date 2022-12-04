@@ -1,0 +1,115 @@
+{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #FBF8CC;
+    font-family: 'Poppins';
+    padding-left: 100px;
+    padding-right: 100px;
+    
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 18px;
+    color: #03045E;
+    margin-bottom: 60px;
+}
+
+.navlinks{
+    list-style: none;  
+    display: flex;
+    justify-content: center;
+}
+.navbar  li{
+    margin: 30px;
+}
+.navlinks a{
+    text-decoration: none;
+    color: #03045E;
+}
+
+.home_container{
+    display: flex;
+    flex-wrap: wrap!important;
+    justify-content: space-between;
+    color: #03045E;
+}
+.home_left{
+    width: 50%;
+   
+    
+}
+.home_left h2{
+    font-size: 100px;
+    font-weight: bolder;
+    line-height: 100px;
+    
+}
+.home_left a{
+     text-decoration: none;
+     color:black ;
+     background-color:#F5EE84 ;
+     padding: 10px;
+     
+}
+
+.resume_container{
+    padding-top: 50px;
+}
+.home_right{
+
+}
+
+.profile{
+    border-radius: 364px 256px 364px 346px;
+    width: 430px;
+    height: 430px;
+}
+#about{
+    color: #03045E;
+}
+.about_head{
+    width: 70%;
+}
+.brown_head{
+    color: #474306;
+    font-size:50px;
+    font-weight: bold;
+}
+.experiance{
+    padding-left: 150px;
+    margin-top: 10px;
+    
+}
+.experiance li{
+    margin-top: 20px;
+}
+section{
+    margin-top: 100px;
+}
+.skill_box{
+    width: 130px;
+    padding: 4px;
+    text-align: center;
+    border: #474306 solid 2px;
+}
+.skills_container{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    width: 100%;
+    margin-top: 20px;
+}
+.contact_container{
+    display: flex;
+    justify-content: space-between;
+}
+.contents{
+    margin-left: 30px;
+}
+.email{
+    margin-top: 30px;
+}
